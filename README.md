@@ -70,7 +70,7 @@ pom.xml:
 
     </jaxb:globalBindings>
 </jaxb:bindings>
-```XML
+```
 
 # Sample wsimport
 
