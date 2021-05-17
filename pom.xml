@@ -32,9 +32,9 @@
     
     <distributionManagement>
         <repository>
-            <id>bintray-vanioinformatika-releases</id>
-            <name>vanioinformatika-releases</name>
-            <url>https://api.bintray.com/maven/vanioinformatika/releases/jaxb-util</url>
+            <id>github</id>
+            <name>GitHub Vanio Informatika Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/vanioinformatika/maven-releases</url>
         </repository>
     </distributionManagement>
 
