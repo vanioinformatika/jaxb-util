@@ -3,7 +3,7 @@
 
     <groupId>hu.vanio.jaxb</groupId>
     <artifactId>jaxb-util</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>jaxb-util</name>
